@@ -1,0 +1,2 @@
+# GeophysicsFIUNAM
+Mi primer repositorio
